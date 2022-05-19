@@ -1,0 +1,29 @@
+{
+  "name": "mongo",
+  "version": "1.0.0",
+  "description": "Mern Stack application. Minimalistic login, sign up authentication app.",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vmercel/mongo.git"
+  },
+  "keywords": [
+    "mern",
+    "stack",
+    "mongodb",
+    "express",
+    "login",
+    "sign",
+    "up",
+    "authentication"
+  ],
+  "author": "Mercel Vubangsi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vmercel/mongo/issues"
+  },
+  "homepage": "https://github.com/vmercel/mongo#readme"
+}
